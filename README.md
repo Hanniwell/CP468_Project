@@ -18,4 +18,4 @@ For the modeling process, We decided to use TFIDF and Bag of Word for Feature ex
 
 The model is currently hosted on an EC2 instance and can be accessed through http://ec2-3-97-109-119.ca-central-1.compute.amazonaws.com:5000/
 
-To use, insert a url of a webpage into the input on the navigation bar to categorize it 
+To use, insert a url of a webpage into the input on the navigation bar to categorize it.
